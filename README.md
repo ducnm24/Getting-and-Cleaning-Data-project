@@ -22,7 +22,7 @@ course project
 
 4.  Extracting
 
-    a. finding all the columns whose name contains either "mean" or "std" but not "meanFreq"
+    a. finding all the columns whose name contains either "mean" or "std" but not "meanFreq"(meanFreq is described "Weighted average of          the frequency components" so I wouldnot include in)
 
     b. extracting them as well as subject and activity ids out from the merged dataset and storing in "extract"
 
