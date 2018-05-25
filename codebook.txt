@@ -1,3 +1,0 @@
-The output file "project.txt" contains 563 variables (subject/participant + activity + 561 signals/features) with corresponding column names and 36 observations without names
-The first 30 observations corresponding to subject/participant ids and average values for every each in 561 signals/features
-The first 6 observations corresponding to activities and average values for every each in 561 signals/features
