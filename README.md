@@ -24,7 +24,7 @@ course project
 
     a. finding all the columns whose name contains either "mean" or "std" but not "meanFreq"
 
-    b. extracting them out from the merged dataset and storing in "extract"
+    b. extracting them as well as subject and activity ids out from the merged dataset and storing in "extract"
 
 5.  Assigning activity names
 
@@ -33,7 +33,5 @@ course project
 6.  Averaging out
 
     a. grouping the data set by subject/participant's id and activity, summrising and applying mean funtion 
-
-    b. combining 2 tables and storing in "avg"
 
 7.  Writing
