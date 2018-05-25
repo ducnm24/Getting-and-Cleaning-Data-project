@@ -30,8 +30,10 @@ course project
 
     a. using activity_labels.txt file to assign activity's id with its corresponding name
 
-6.  Averaging out
+6. Labelling dataset 
+
+7.  Averaging out
 
     a. grouping the data set by subject/participant's id and activity, summrising and applying mean funtion 
 
-7.  Writing
+8.  Writing
