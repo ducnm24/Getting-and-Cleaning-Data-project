@@ -1,0 +1,3 @@
+The output file "project.txt" contains 68 variables (subject/participant + activity + 66 signal/feature measurements on the mean and std) and 180 observations, which are combinations of subject id and activity, showing avarage value of each signal/feature 
+with headers, without row names
+
